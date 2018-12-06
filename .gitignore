@@ -1,0 +1,18 @@
+Amoveo Wallet.xcodeproj/project.xcworkspace/xcuserdata/slamm.xcuserdatad/xcschemes/xcschememanagement.plist
+Amoveo Wallet.xcodeproj/xcuserdata/slamm.xcuserdatad/xcschemes/Amoveo Wallet.xcscheme
+.idea/.name
+.idea/amoveo-ios-wallet.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/xcode.xml
+.idea/codeStyles/Project.xml
+Amoveo Wallet/Carthage/Build
+Amoveo Wallet.xcodeproj/project.xcworkspace/xcuserdata
+.idea
+testData
+Crashlytics.framework
+Fabric.framework
+Amoveo Wallet.xcodeproj/xcuserdata
+AWBuildConfig

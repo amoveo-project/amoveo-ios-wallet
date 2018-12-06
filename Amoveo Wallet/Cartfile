@@ -1,0 +1,10 @@
+github "sberrevoets/SDCAlertView" ~> 9.0.1
+github "SnapKit/SnapKit" ~> 4.0.1
+github "SwiftyJSON/SwiftyJSON"
+github "CRAnimation/CRRefresh"
+github "Alamofire/Alamofire" ~> 4.7.3
+github "mxcl/PromiseKit" ~> 6.5.2
+github "PromiseKit/Alamofire-" ~> 3.2.1
+github "scinfu/SwiftSoup"
+github "attaswift/BigInt" ~> 3.1
+github "gmarm/BetterSegmentedControl" ~> 1.0

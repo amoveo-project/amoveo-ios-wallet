@@ -1,0 +1,100 @@
+//
+//  Localizable.strings
+//  Amoveo Wallet
+//
+//  Created by Igor Efremov on 13/03/2018.
+//  Copyright (c) 2018 Exantech. All rights reserved.
+//
+
+"COMMON_APP_TITLE"           = "Amoveo Wallet";
+"COMMON_COPIED_TO_CLIPBOARD" = "copied to clipboard";
+"COMMON_SAFE_NOTE"           = "Write down this passphrase and store it somewhere safe. This is the only way to restore access to your wallet.";
+"COMMON_CLOSE"               = "Close";
+"COMMON_OK"                  = "OK";
+"COMMON_CANCEL"              = "Cancel";
+"COMMON_CONTINUE"            = "Continue";
+"COMMON_SEND"                = "Send";
+"COMMON_PASSPHRASE"          = "Passphrase";
+"COMMON_ENTER_PASSWORD"      = "Enter Wallet Password";
+"COMMON_ERROR"               = "Error";
+"COMMON_SKIP"                = "Skip";
+"COMMON_ENABLE"              = "Enable";
+"EXPORT_PRIVATE_KEY"         = "Export private key";
+
+"RESTORE_WALLET_BTN"         = "Restore wallet";
+"DELETE_WALLET_BTN"          = "Delete wallet";
+
+// Wallet process info
+"WALLET_RESTORED"            = "Wallet successfully restored";
+"WALLET_CREATED"             = "Wallet successfully created";
+
+// Create Wallet
+"CREATE_EXPLANATION_TITLE"      = "This is your BIP39 mnemonic recovery phrase.";
+"CREATE_VC_TITLE"               = "Wallet Passphrase";
+
+// Restore Wallet
+"RESTORE_TITLE"                 = "Restore Wallet";
+"RESTORE_ENTER_DESCRIPTION"     = "Enter Passphrase (12 words)\nYour BIP39 mnemonic code or private key (hex string)";
+"RESTORE_INFO"                  = "Amoveo wallet uses m/44'/488'/0'/0 path";
+
+// Tabs
+"TAB_DASHBOARD_TITLE" = "Dashboard";
+"TAB_SEND_TITLE" = "Send";
+"TAB_RECEIVE_TITLE" = "Receive";
+"TAB_SETTINGS_TITLE" = "Settings";
+
+// Main
+"WALLET_OPTION_CREATE" = "Create wallet";
+"WALLET_OPTION_RESTORE" = "Restore wallet";
+
+// Setup Password
+"WALLET_PASSWORD_TITLE_HEADER" = "Set Wallet Password";
+"WALLET_PASSWORD_CHANGED" = "Wallet password was changed";
+"WALLET_PASSWORD_EXPLANATION" = "Essential for secure transactions and exchange operations in your wallet. It is the only way to access your master mnemonic passphrase. Remember, you can use different master passwords on different devices.";
+"WALLET_PASSWORD_ENTER_PASS" = "Wallet password (min. %@ symbols)";
+"WALLET_PASSWORD_VERIFY_PASS" = "Verify password";
+"WALLET_PASSWORD_SKIP" = "You didn't set a password.\nThis is insecure.\nAre you sure you want to continue?";
+
+// Receive
+"RECEIVE_HEAD_TITLE" = "Receive %@";
+
+"SCAN_TITLE"    = "Scan QR Code";
+"SCAN_CAMERA_UNAVAILABLE"   = "Camera is unavailable\n\nThe camera could not be turned on.\nCheck your device's settings.";
+
+// Settings
+"SETTINGS_ABOUT"        = "About Amoveo";
+"SETTINGS_NODE"         = "Blockchain Node";
+"ABOUT_TEXT"            = "AMOVEO (VEO) is a mineable PoW highly-scalable blockchain for prediction markets, investment and insurance contracts and various derivatives such as stablecoins.\n\nWith Amoveo Wallet, you can store and exchange VEO coins in a completely secure and efficient manner. Here we've everything you need in just one place.";
+
+// Pin code
+"PIN_CREATE_SECURITY_CODE"      = "Create security code";
+"PIN_ENTER_SECURITY_CODE"       = "Enter security code";
+"PIN_CONFIRM_SECURITY_CODE"     = "Confirm security code";
+
+// Send
+"SEND_YOURSELF"        = "You are trying to make a transfer for yourself";
+
+// Banner
+"BANNER_NO_CONNECTION" = "No Internet connection";
+"BANNER_NO_RESPONDING" = "Server not responding";
+"BANNER_WRONG_REQUEST" = "Request error";
+
+// Auth
+// Bio
+"AUTH_BIO_TOUCH_ID_STRING" = "Unlock using Touch ID";
+"AUTH_BIO_FACE_ID_STRING" = "Unlock using Face ID";
+"AUTH_BIO_ENTER_PASSWORD" = "Enter pincode";
+
+// Auth
+// Errors message
+"AUTH_ERROR_BASE" = "Authorisation error. Try again.";
+"AUTH_ERROR_BIO_LOCKOUT" = "Touch ID is now locked. Passcode is required to unlock Touch ID";
+"AUTH_ERROR_BIO_NOTALLOWED" = "Biometric authentication not available";
+"AUTH_ERROR_PASSCODE_NOT_SET" = "A passcode has not been set";
+
+// View message
+"AUTH_BIO_TOUCH_MESSAGE_SETUP" = "We recommend to activate Touch ID authentication for a smooth app flow";
+"AUTH_BIO_FACE_MESSAGE_SETUP" = "We recommend to activate Face ID authentication for a smooth app flow";
+
+// Transaction details
+"VIEW_IN_BLOCKCHAIN"  = "View in blockchain";
